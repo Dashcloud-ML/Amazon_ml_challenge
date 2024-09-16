@@ -1,0 +1,35 @@
+index prediction
+    0 55.54 ampere
+    1 68.75 meter
+    2 26.79 kelvin
+    3 
+    4 94.85 second
+    5 51.46 kelvin
+    6 61.70 ampere
+    7 
+    8 49.59 meter
+    9 37.49 meter
+   10 24.61 second
+   11 89.64 kelvin
+   12 
+   13 11.18 ampere
+   14 38.75 kilogram
+
+CSV Content:
+index,prediction
+0,55.54 ampere
+1,68.75 meter
+2,26.79 kelvin
+3,
+4,94.85 second
+5,51.46 kelvin
+6,61.70 ampere
+7,
+8,49.59 meter
+9,37.49 meter
+10,24.61 second
+11,89.64 kelvin
+12,
+13,11.18 ampere
+14,38.75 kilogram
+
